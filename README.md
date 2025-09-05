@@ -1,9 +1,3 @@
-
----
-
-## SheroHub Project – `README.md`
-
-```markdown
 # SheroHub – Period Tracker Web App
 
 SheroHub is a **React + Ionic web app** built to help users track their menstrual cycles.  
@@ -33,4 +27,3 @@ It has a simple and clean interface, with easy navigation between pages.
    ```bash
    git clone <repo-link>
    cd SheroHub
-
